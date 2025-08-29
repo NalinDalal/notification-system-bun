@@ -141,7 +141,3 @@ DLQ received: {...}
 - Each queue retries failed messages up to **10 times**.
 - After that, the message is pushed into the **DLQ**.
 - You can inspect DLQ contents by checking console logs.
-
-```
-
-```
